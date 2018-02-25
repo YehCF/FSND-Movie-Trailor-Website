@@ -1,0 +1,40 @@
+
+{
+  "Maze Runner: The Death Cure": {
+    "storyline": "In the epic finale to the Maze Runner saga, Thomas leads his group of escaped Gladers on their final and most dangerous mission yet. To save their friends, they must break into the legendary Last City, a WCKD-controlled labyrinth that may turn out to be the deadliest maze of all. Anyone who makes it out alive will get answers to the questions the Gladers have been asking since they first arrived in the maze.",
+    "poster_image_url": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYyNzk3MDc2NF5BMl5BanBnXkFtZTgwMDk3OTM1NDM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+    "trailer_youtube_url": "https://www.youtube.com/watch?v=4-BTxXm8KSg"
+  },
+
+  "Avengers 3: Infinity War": {
+    "storyline": "As the Avengers and their allies have continued to protect the world from theaters to large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+    "poster_image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhQ66NvFP4kCQQE0K2QmkKloZ3bbbYakn0uhvp8laYRqqvpr9Z",
+    "trailer_youtube_url": "https://www.youtube.com/watch?v=FL6fzzZva4g"
+  },
+
+  "Avatar": {
+    "storyline": "AVATAR takes us to a spectacular world beyond imagination, where a reluctant hero embarks on an epic adventure, ultimately fighting to save the alien world he has learned to call home. James Cameron, the Oscar-winning director of Titanic, first conceived the film 15 years ago, when the means to realize his vision did not exist yet. Now, after four years of production, AVATAR, a live action film with a new generation of special effects, delivers a fully immersive cinematic experience of a new kind, where the revolutionary technology invented to make the film disappears into the emotion of the characters and the sweep of the story.",
+    "poster_image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSruFd0x4aO15GozjTiVAyL4XbtxZMPkKGlfcBrO47AuzHN2ZZQyw",
+    "trailer_youtube_url": "https://www.youtube.com/watch?v=5PSNL1qE6VY"
+  },
+
+  "Life of Pi": {
+    "storyline": "Based upon the best-selling novel by Yann Martel, 'Life Of Pi' tells the story of a young man's incredible survival at sea against impossible odds. A remarkable technological breakthrough in 3D epic adventure, Pi is an emotionally captivating experience that will inspire, touch and transport audiences to a place of discovery that they will never forget.",
+    "poster_image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIMhko_zMm4Q-ytIuZx9ehmNQCqZyJT2CzmggaO89MWAykXjmL",
+    "trailer_youtube_url": "https://www.youtube.com/watch?v=j9Hjrs6WQ8M"
+  },
+
+  "Doctor Strange": {
+    "storyline": "After his career is destroyed, a brilliant but arrogant and conceited surgeon gets a new lease on life when a sorcerer takes him under his wing and trains him to defend the world against evil.",
+    "poster_image_url": "https://upload.wikimedia.org/wikipedia/zh/thumb/8/8d/Doctor_Strange_2016_Poster.jpg/220px-Doctor_Strange_2016_Poster.jpg",
+    "trailer_youtube_url": "https://www.youtube.com/watch?v=MWRUNTLisPo"
+
+  },
+
+  "Transformers 5: The Last Knight": {
+    "storyline": "Optimus Prime finding his home planet, Cybertron, now a dead planet, which he comes to find he was responsible for killing. He finds a way to bring the planet back to life, but in order to do so he needs to find an artifact, and that artifact is on Earth.",
+    "poster_image_url": "https://vignette.wikia.nocookie.net/transformers/images/4/49/Transformers_5_Poster_6.jpg/revision/latest?cb=20170711151023",
+    "trailer_youtube_url": "https://www.youtube.com/watch?v=sgnO5fO46pE"
+  }
+}
+
