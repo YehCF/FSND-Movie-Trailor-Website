@@ -17,11 +17,14 @@ This is a project to generate an HTML file containing your favorite movie traile
 ## Make Your Own
 
 1. Add your own moview trailers in **_movie_trailers.json_**
+
     * Data Format:
+
         * _title_: the object name
         * _storyline_: the object's property
         * _poster_image_url_: the object's property
         * _trailer_youtube_url_: the object's property
+
             ```sh
             "(title of the movie)": {
                 "storyline": "(the storyline of the movie)",
@@ -30,6 +33,7 @@ This is a project to generate an HTML file containing your favorite movie traile
             }
             ```
     * Example:
+
         ```sh
          "Avatar": {
             "storyline": "AVATAR takes us to a spectacular world",
@@ -37,4 +41,5 @@ This is a project to generate an HTML file containing your favorite movie traile
             "trailer_youtube_url": "https://www.youtube.com/watch?v=5PSNL1qE6VY"
           }
         ```
+        
 2. Follow the instructions from `Get Started` part.
