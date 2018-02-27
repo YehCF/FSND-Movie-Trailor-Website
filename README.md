@@ -32,14 +32,14 @@ This is a project to generate an HTML file containing your favorite movie traile
                 "trailer_youtube_url": "(the url for the movie trailer)"
             }
             ```
-    * Example:
+        * Example:
+    
+            ```sh
+             "Avatar": {
+                "storyline": "AVATAR takes us to a spectacular world",
+                "poster_image_url": "https://goo.gl/NPEcNJ",
+                "trailer_youtube_url": "https://www.youtube.com/watch?v=5PSNL1qE6VY"
+              }
+            ```
 
-        ```sh
-         "Avatar": {
-            "storyline": "AVATAR takes us to a spectacular world",
-            "poster_image_url": "https://goo.gl/NPEcNJ",
-            "trailer_youtube_url": "https://www.youtube.com/watch?v=5PSNL1qE6VY"
-          }
-        ```
-        
 2. Follow the instructions from `Get Started` part.
