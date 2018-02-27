@@ -4,8 +4,8 @@ import fresh_tomatoes
 
 def extract_movie_trailers_from_json(movies_josn_file):
     '''
-    Extract infos about movie trailers from json file
-    :param movies_josn_file: the path to open the json file
+    Extract info about movie trailers from a json file (movie_trailers.json in this case)
+    :param movies_josn_file: the path to open the json file (.json)
     :return:
         a list of movie trailers, which are dictionaires
     '''
@@ -13,6 +13,7 @@ def extract_movie_trailers_from_json(movies_josn_file):
     movie_list = []
 
     with open(movies_josn_file) as f:
+
         movie_trailers = json.load(f)
 
         for movie_title, movie_trailer in movie_trailers.items():
@@ -29,7 +30,8 @@ def extract_movie_trailers_from_json(movies_josn_file):
 def create_movies(movie_list):
     '''
     Create a list of movie objects from a list of movie dictionaries
-    :param movie_list: a list of moview dictionaries, containing the info about movies
+    :param movie_list: a list of movie dictionaries, containing the info about movies
+        including title, storyline, poster_image_url and youtube_trailer_url
     :return:
         a list of Movie objects
     '''
@@ -52,5 +54,5 @@ if __name__ == '__main__':
     # create movie objects
     movie_objects = create_movies(movie_list)
 
-    # open the webpage about the trailors
+    # generate the movie trailer HTML
     fresh_tomatoes.open_movies_page(movie_objects)
