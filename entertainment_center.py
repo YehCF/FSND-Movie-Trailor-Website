@@ -22,11 +22,9 @@ def extract_movie_trailers_from_json(movies_josn_file):
                 'poster_image_url': movie_trailer['poster_image_url'],
                 'trailer_youtube_url': movie_trailer['trailer_youtube_url']
             }
-
             movie_list.append(movie)
 
     return movie_list
-
 
 def create_movies(movie_list):
     '''
@@ -44,7 +42,6 @@ def create_movies(movie_list):
         movie_objects.append(movie_object)
 
     return movie_objects
-
 
 if __name__ == '__main__':
 
