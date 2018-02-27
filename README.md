@@ -2,6 +2,8 @@
 
 This is a project to generate an HTML file containing your favorite movie trailers.
 
+
+
 ## Get Started
 
 1. Clone this repo
@@ -15,6 +17,8 @@ This is a project to generate an HTML file containing your favorite movie traile
 5. Open the file **_fresh_tomatoes.html_**
 
 6. Click the poster of the movie and the trailer shows up
+
+
 
 ## Make Your Own
 
