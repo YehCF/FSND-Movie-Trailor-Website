@@ -6,24 +6,26 @@ This is a project to generate an HTML file containing your favorite movie traile
 
 1. Clone this repo
 
-2. `cd ../[path_for_this_project]`
+2. Make sure you've installed python 3 in your environment
 
-3. Generate an HTML file by `$ python fresh_tomatoes.py`
+3. `cd ../[path_for_this_project]`
 
-4. Open the file **_fresh_tomatoes.html_**
+4. Generate an HTML file by `$ python fresh_tomatoes.py`
 
-5. Click the poster of the movie and the trailer shows up
+5. Open the file **_fresh_tomatoes.html_**
+
+6. Click the poster of the movie and the trailer shows up
 
 ## Make Your Own
 
-1. Add your own moview trailers in **_movie_trailers.json_**
+1. Add your own movie trailers in **_movie_trailers.json_**
 
     * Data Format:
 
-        * `_title_`: the object name
-        * `_storyline_`: the object's property
-        * `_poster_image_url_`: the object's property
-        * `_trailer_youtube_url_`: the object's property
+        * `title`: the object name
+        * `storyline`: the object's property
+        * `poster_image_url`: the object's property
+        * `trailer_youtube_url`: the object's property
 
             ```sh
             "(title of the movie)": {
@@ -43,3 +45,7 @@ This is a project to generate an HTML file containing your favorite movie traile
             ```
 
 2. Follow the instructions from `Get Started` part.
+
+
+
+
