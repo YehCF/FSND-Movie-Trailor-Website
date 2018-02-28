@@ -40,7 +40,7 @@ def create_movies(movie_list):
         movie_object = media.Movie(title=movie['title'],
                                    storyline=movie['storyline'],
                                    poster_image_url=movie['poster_image_url'],
-                                   trailor_youtube_url=movie['trailer_youtube_url'])
+                                   trailer_youtube_url=movie['trailer_youtube_url'])
         movie_objects.append(movie_object)
 
     return movie_objects
