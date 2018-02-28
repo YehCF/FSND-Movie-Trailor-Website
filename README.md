@@ -12,11 +12,16 @@ This is a project to generate an HTML file containing your favorite movie traile
 
 3. `cd ../[path_for_this_project]`
 
-4. Generate an HTML file by `$ python fresh_tomatoes.py`
+4. Generate and open an HTML file by `$ python entertainment_center.py`
 
-5. Open the file **_fresh_tomatoes.html_**
+    * Note:
 
-6. Click the poster of the movie and the trailer shows up
+        *an HTML file called `fresh_tomatoes.html` can be found in the folder
+
+        *you can revisit the website by just opening this html
+
+5. Click the poster of the movie and the trailer shows up
+
 
 
 
@@ -48,7 +53,7 @@ This is a project to generate an HTML file containing your favorite movie traile
               }
             ```
 
-2. Follow the instructions from `Get Started` part.
+2. Follow the instructions (2 to 5) from `Get Started` part.
 
 
 

@@ -54,5 +54,5 @@ if __name__ == '__main__':
     # create movie objects
     movie_objects = create_movies(movie_list)
 
-    # generate the movie trailer HTML
+    # generate and open the movie trailer HTML
     fresh_tomatoes.open_movies_page(movie_objects)
