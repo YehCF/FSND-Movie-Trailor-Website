@@ -16,9 +16,9 @@ This is a project to generate an HTML file containing your favorite movie traile
 
     * Note:
 
-        *an HTML file called `fresh_tomatoes.html` can be found in the folder
+        * an HTML file called `fresh_tomatoes.html` can be found in the folder
 
-        *you can revisit the website by just opening this html
+        * you can revisit the website by just opening this html
 
 5. Click the poster of the movie and the trailer shows up
 
